@@ -1,0 +1,6 @@
+[submodule "Grad-PU"]
+	path = Grad-PU
+	url = https://github.com/grxxce/Grad-PU.git
+[submodule "PU-GCN"]
+	path = PU-GCN
+	url = https://github.com/grxxce/PU-GCN.git
